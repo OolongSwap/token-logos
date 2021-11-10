@@ -9,11 +9,13 @@ Such a large collection can be maintained only through a community effort, so _f
 ### Requirements
 Please note that __brand new tokens are not accepted__,
 the projects have to be sound, with information available, and __non-minimal circulation__:
+
 1. The project must be at least __5__ days old. (after mainnet launch)
 2. The token should have at least __$25,000__ of liquidity on [OolongSwap](https://oolongswap.com/) (check stats on [Analytics](https://info.oolongswap.com/#/tokens))
-3. Must provide the following project information.
-   - [ ] Contract addresses
-   - [ ] Social media links
+3. Contracts are verified in explorer.
+4. Must have the following project information.
+   - [ ] Contract addresses 
+   - [ ] Social media links (e.g twitter)
    - [ ] Official website
 
 ### Adding an new token logo
